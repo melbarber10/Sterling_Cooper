@@ -1,0 +1,79 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+    background-color: black;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.title h1 {
+    font-size: 3rem;
+    color:burlywood;
+
+}
+.home-class {
+    background-color: rgb(12, 24, 22);
+
+}
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color:lavender;
+
+}
+.myname {
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:darkblue;
+}
+.name {
+    font-size: 1rem;
+}
+#features {
+background-color:darkgray;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+.line {
+  width: 10px;
+  height: 40px;
+  background: #dc3545;
+  transition: width 1s ease 0s;
+}
+.line:hover {
+    width: 100%;
+}
+#our-services {
+    background-color:rgb(11, 21, 74);
+}
+.extra-info {
+    color: azure;
+}
+#contact_us {
+    background-color: navajowhite;
+    font-size: 1rem;
+    text-align: center;
+    padding-left: 10px;
+    color:darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.copyright  {
+    text-align: left;
+}
+#contact_us h1 {
+    text-align: left;
+}
+body {
+    background-color: navajowhite;
+    padding: 0%;
+    margin: 0;
+}
+.logo {
+    margin-right: 20px;
+    border-radius: 50%;
+}
